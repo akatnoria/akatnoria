@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/katnoria_ajay04" target="blank"><img src="https://img.shields.io/twitter/follow/katnoria_ajay04?logo=twitter&style=for-the-badge" alt="katnoria_ajay04" /></a> </p>
 <br>🔭 I’m currently working on: </br>
-<be> Building a Portfolio in HTML, CSS, and JavaScript.</br>
-<br>🌱 I’m currently Learning:</br>
-<br> React Concepts.</br>
-<br>I am exploring JavaScript concepts. </br>
-<br>I am enhancing my skills in backend development. </br>
+Building a Portfolio in HTML, CSS, and JavaScript.</br>
+🌱 I’m currently Learning:</br>
+React Concepts.</br>
+I am exploring JavaScript concepts. </br>
+I am enhancing my skills in backend development. </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
