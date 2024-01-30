@@ -5,11 +5,12 @@
 <h3 align="center">A passionate frontend developer </h3>
 
 <p align="left"> <a href="https://twitter.com/katnoria_ajay04" target="blank"><img src="https://img.shields.io/twitter/follow/katnoria_ajay04?logo=twitter&style=for-the-badge" alt="katnoria_ajay04" /></a> </p>
-🔭 I’m currently working on Building a Portfolio in HTML, CSS, and JavaScript.
-🌱 I’m currently learning Learning React Concepts. 
+🔭 I’m currently working on:
+Building a Portfolio in HTML, CSS, and JavaScript.
+🌱 I’m currently Learning:
+ React Concepts.
 I am exploring JavaScript concepts. 
 I am enhancing my skills in backend development. 
-**React Concepts. I am exploring JavaScript concepts. I am enhancing my skills in backend development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
