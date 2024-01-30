@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer </h3>
 
 <p align="left"> <a href="https://twitter.com/katnoria_ajay04" target="blank"><img src="https://img.shields.io/twitter/follow/katnoria_ajay04?logo=twitter&style=for-the-badge" alt="katnoria_ajay04" /></a> </p>
-🔭 I’m currently working on:
+<br>🔭 I’m currently working on: </br>
 Building a Portfolio in HTML, CSS, and JavaScript.
 🌱 I’m currently Learning:
  React Concepts.
