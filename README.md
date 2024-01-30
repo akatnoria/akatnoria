@@ -6,7 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/katnoria_ajay04" target="blank"><img src="https://img.shields.io/twitter/follow/katnoria_ajay04?logo=twitter&style=for-the-badge" alt="katnoria_ajay04" /></a> </p>
 
-🌱 I’m currently learning Learning React Concepts. I am exploring JavaScript concepts. I am enhancing my skills in backend development. **React Concepts. I am exploring JavaScript concepts. I am enhancing my skills in backend development.**
+🌱 I’m currently learning Learning React Concepts. 
+I am exploring JavaScript concepts. 
+I am enhancing my skills in backend development. 
+**React Concepts. I am exploring JavaScript concepts. I am enhancing my skills in backend development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
